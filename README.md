@@ -7,4 +7,4 @@
 - 💬 Ask me about effective technical documentation tips.
 - 📫 How to reach me: sughsarora@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I know calligraphy
+- ⚡ Fun fact: I know calligraphy.

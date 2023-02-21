@@ -1,10 +1,9 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on technical documentation.
-- 🌱 I’m currently learning business writing skills.
-- 👯 I’m looking to collaborate on different product documentation assignments.
-- 🤔 I’m looking for help with any of the above.
-- 💬 Ask me about Documentation Planning and Technical Communication.
-- 📫 How to reach me: sughsarora@gmail.com
+- 🔭 Hi there 👋I am Sugandha.
+- 🌱 I’m a Technical Communications Engineer by profession.
+- 👯 I’m looking to collaborate on different product documentation assignments/open source documentation projects.
+- 🌱 I'm currently learning how to write a SOP.
+- 💬 Ask me about Technical Communication and Documentation.
+- 📫 Shoot an email: sughsarora@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I know calligraphy.
+- ⚡ Fun fact: I am a digital creator @ketchup.tales.

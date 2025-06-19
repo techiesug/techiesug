@@ -1,9 +1,8 @@
 
 - 🔭 Hi there 👋I am Sugandha.
-- 🌱 I’m a Technical Communications Engineer by profession.
+- 🌱 Technical Writer & Quality Management Specialist | Regulated Industries (IVD, Pharma, Semiconductors) | Process-Oriented | Continuous Improvements
 - 👯 I’m looking to collaborate on different product documentation assignments/open source documentation projects.
-- 🌱 I'm currently learning how to write a SOP.
-- 💬 Ask me about Technical Communication and Documentation.
+- 💬 Ask me about ISO 13485, Adobe RoboHelp, CAPA and auditing.
 - 📫 Shoot an email: sughsarora@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a digital creator @ketchup.tales.
+- ⚡ Fun fact: I am a digital creator too (@ketchup.tales).

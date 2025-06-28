@@ -5,4 +5,3 @@
 - 💬 Ask me about ISO 13485, Adobe RoboHelp, CAPA and auditing.
 - 📫 Shoot an email: sughsarora@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a digital creator too (@ketchup.tales).
